@@ -1,0 +1,11 @@
+body{
+  background-color:#d6d6c2;
+}
+
+
+blockquote{
+  border: 1px solid white; 
+   height: 40px ;
+   text-align:center;
+   margin-left: 0;
+}
